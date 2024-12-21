@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "리뷰픽"
+title                    : "바이트렌드"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "reviewpick"
-description              : "소비자들의 베스트 선택 가이드"
-url                      : "https://reviewpick.github.io"
+name                     : "buytrend"
+description              : "트렌디한 리뷰, 알뜰한 선택"
+url                      : "https://buytrend.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  : "f63a8f26fdb05a97265b519d223e3782af8b404e"
+naver_site_verification  : "377bcbbb2521abf010ad924bba6c24e470928bfd"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "리뷰픽"
+  name             : "바이트렌드"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "다양한 제품의 생생한 리뷰와 체험 이야기를 통해 현명한 소비자 선택을 위한 가이드를 제공합니다"
+  bio              : "최신 트렌드를 반영한 리뷰와 구매 정보를 통해 소비자의 스마트한 선택을 지원합니다"
   location         : "Somewhere"
   email            :
   links:
